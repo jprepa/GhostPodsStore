@@ -1,1 +1,1 @@
-Pode ser acessado em "ghostpods.store" ou "https://jprepa.github.io/GhostPodsStore/"
+Pode ser acessado em "https://ghostpods.store" ou "https://jprepa.github.io/GhostPodsStore/"
